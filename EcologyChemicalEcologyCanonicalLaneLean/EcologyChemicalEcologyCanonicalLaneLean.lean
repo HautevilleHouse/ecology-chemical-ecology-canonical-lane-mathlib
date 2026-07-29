@@ -1,0 +1,19 @@
+import EcologyChemicalEcologyCanonicalLaneLean.AdmissibleClass
+import EcologyChemicalEcologyCanonicalLaneLean.BridgeLemmas
+import EcologyChemicalEcologyCanonicalLaneLean.GateLemmas
+import EcologyChemicalEcologyCanonicalLaneLean.FinalTheorem
+import EcologyChemicalEcologyCanonicalLaneLean.ChemicalKinetics
+import EcologyChemicalEcologyCanonicalLaneLean.MolecularOrbitalTheory
+import EcologyChemicalEcologyCanonicalLaneLean.Thermodynamics
+import EcologyChemicalEcologyCanonicalLaneLean.ChemicalEquilibrium
+import EcologyChemicalEcologyCanonicalLaneLean.EcologicalChemicalInteraction
+
+namespace HautevilleHouse
+namespace EcologyChemicalEcologyCanonicalLaneLean
+
+def sourceCheckoutHead : String := "abc123def456"
+def sourceDescription : String := "Ecology Chemical Ecology Canonical Lane"
+def sourceRepository : String := "ecology-chemical-ecology-canonical-lane"
+
+end EcologyChemicalEcologyCanonicalLaneLean
+end HautevilleHouse
